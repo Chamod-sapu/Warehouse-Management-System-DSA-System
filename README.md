@@ -1,0 +1,1 @@
+This is a university undergraduate project. In this project I have implement the stock management in a warehouse. Stock in, stock out proccesses are in this project. I have used C++ programming language to develop. File handling with csv files are also used in this project.
