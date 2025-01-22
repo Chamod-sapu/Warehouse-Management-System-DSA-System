@@ -1,0 +1,9 @@
+﻿  DSA Warehouse Management System.cpp
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\Buyers_List.h(92,21): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\Buyers_List.h(111,21): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\Buyers_List.h(115,22): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\item.h(50,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\item.h(367,44): warning C4101: 'e': unreferenced local variable
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\item.h(370,40): warning C4101: 'e': unreferenced local variable
+C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\DSA Warehouse Management System\item.h(496,11): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  DSA Warehouse Management System.vcxproj -> C:\Users\ASUS\Desktop\DSA Warehouse Management System 5\x64\Debug\DSA Warehouse Management System.exe
